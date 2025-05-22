@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trishulnaik
 - 👀 I’m interested in Web
-- 🌱 I’m Full Stack Web development in MERN Stack.
+- 🌱 I’m Full Stack Web development in MERN.
 - 📫 How to reach me trishulnaikbannoth@gmail.com
 
 <!---
